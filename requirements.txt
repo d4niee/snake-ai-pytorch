@@ -1,0 +1,4 @@
+pygame~=2.3.0
+numpy~=1.23.5
+matplotlib~=3.7.1
+ipython~=8.12.0
